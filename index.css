@@ -1,4 +1,30 @@
 .zad1 {
     color: green;
     background-color: aqua;
+    font: 14px sans-serif;
+}
+.zad2 {
+    color:blue;
+    background-color: palevioletred;
+    font: 16px serif;
+}
+.zad3 {
+    color: rgb(203, 206, 25);
+    background-color: rgb(44, 48, 48);
+    font: 16px italic;
+}
+.zad4 {
+    color: rgb(116, 68, 155);
+    background-color: rgb(216, 67, 67);
+    font: 18px italic;
+}
+.zad5 {
+    color: rgb(24, 26, 24);
+    background-color: rgb(57, 145, 30);
+    font: 20px sans-serif;
+}
+.zad6 {
+    color: rgb(79, 149, 206);
+    background-color: rgb(63, 9, 134);
+    font: 22px serif;
 }
