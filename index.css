@@ -28,3 +28,26 @@
     background-color: rgb(63, 9, 134);
     font: 22px serif;
 }
+.w3c:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+.w3c:visited{
+    color:red;
+    background-color: transparent;
+    text-decoration: none;
+}
+.top:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+.top:hover{
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.new{
+    background-color: yellow;
+}
