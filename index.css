@@ -51,3 +51,15 @@
 .new{
     background-color: yellow;
 }
+.nenum{
+    background-color: blueviolet;
+    margin-left: 20px;
+}
+.num{
+    background-color: aqua;
+    margin-left: 50px;
+}
+li{
+    background-color: brown;
+    color: green;
+}
