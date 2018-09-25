@@ -68,4 +68,21 @@ li{
     border-radius: 15px;
     box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
-
+#one{
+    background-color: blueviolet;
+}
+#two{
+    background-color: #ffa500;
+}
+#three{
+    background-color: aqua;
+}
+#four{
+    background-color: blue;
+}
+#five{
+    background-color: chartreuse;
+}
+.shap{
+    background-color: crimson;
+}
